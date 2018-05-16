@@ -1,0 +1,16 @@
+page-gesture-lock {
+  canvas{
+    display:block; width:320px; height:320px;
+    margin:2rem auto 0 auto;
+  }
+  .gestureLockBox{
+    position: absolute;top:0;left:0;right:0;bottom:0;
+  }
+  .resetPasswordBox{
+    position: absolute;right: 1rem;bottom:1rem;
+  }
+  .gestureTitle{
+    margin-top:8rem;
+    font-size:1.8rem;
+  }
+}
